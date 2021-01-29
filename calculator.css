@@ -1,0 +1,35 @@
+body {
+    font-family: 'Potta One', cursive;
+    background-color: black;
+}
+section{
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.heading{
+    text-align: center;
+    font-size: 35px;
+    color: greenyellow;
+    box-shadow: 2px 1px 100px rgb(58, 11, 230);
+}
+.table{
+    text-align: center;
+    box-shadow: 10px 10px 100px  rgba(187, 23, 23, 0.473);
+}
+
+input[type="button"] {
+    font-size: 25px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    color: rgb(3, 5, 29);
+}
+input[type="text"] {
+    font-size: 25px;
+    border-radius: 5px;
+    text-align: center;
+    height: 50px;
+    width: 200px;
+}
