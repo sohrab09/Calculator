@@ -33,3 +33,10 @@ input[type="text"] {
     height: 50px;
     width: 200px;
 }
+
+.footer{
+    text-align: center;
+    font-size: 12px;
+    color: rgb(46, 122, 209);
+    box-shadow: 2px 1px 100px rgb(11, 230, 11);
+}
